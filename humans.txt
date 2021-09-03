@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+Elizabeth Estrda	eli.estrada@gmail.com
 
 # THANKS
 
